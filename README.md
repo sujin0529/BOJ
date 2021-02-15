@@ -14,6 +14,7 @@
 - [이분탐색](https://github.com/sujin0529/BOJ/tree/master/BinarySearch)
 - [그래프](https://github.com/sujin0529/BOJ/tree/master/Graph)
 - [BFS](https://github.com/sujin0529/BOJ/tree/master/BFS)
+- [DFS](https://github.com/sujin0529/BOJ/tree/master/DFS)
 - [시뮬레이션](https://github.com/sujin0529/BOJ/tree/master/Simulation)
 - [Disjoint-Set](https://github.com/sujin0529/BOJ/tree/master/DisjointSet)
 - [분할정복](https://github.com/sujin0529/BOJ/tree/master/DivideAndConquer)
