@@ -2,29 +2,28 @@
 백준 문제 풀이
 
 ## 알고리즘 분류
-- 수학
-- 문자열
-- 정렬
-- 스택
-- 큐
-- 브루트포스
-- 그리디 알고리즘
-- 백트래킹
-- 동적계획법
-- 이분탐색
-- 그래프
-- BFS
-- DFS
-- 시뮬레이션
-- Disjoint-Set
-- 분할정복
-- 힙
-- 트리
-- 최단경로
-- 다익스트라 알고리즘
-- 플로이드-와샬 알고리즘
-- 최소 스패닝 트리
-- 기하학
+- [수학](https://github.com/sujin0529/BOJ/tree/master/Math)
+- [문자열](https://github.com/sujin0529/BOJ/tree/master/String)
+- [정렬](https://github.com/sujin0529/BOJ/tree/master/Sort)
+- [스택](https://github.com/sujin0529/BOJ/tree/master/Stack)
+- [큐](https://github.com/sujin0529/BOJ/tree/master/Queue)
+- [브루트포스](https://github.com/sujin0529/BOJ/tree/master/BruteForce)
+- [그리디 알고리즘](https://github.com/sujin0529/BOJ/tree/master/Greedy)
+- [백트래킹](https://github.com/sujin0529/BOJ/tree/master/BackTracking)
+- [동적계획법](https://github.com/sujin0529/BOJ/tree/master/DP)
+- [이분탐색](https://github.com/sujin0529/BOJ/tree/master/BinarySearch)
+- [그래프](https://github.com/sujin0529/BOJ/tree/master/Graph)
+- [BFS](https://github.com/sujin0529/BOJ/tree/master/BFS)
+- [시뮬레이션](https://github.com/sujin0529/BOJ/tree/master/Simulation)
+- [Disjoint-Set](https://github.com/sujin0529/BOJ/tree/master/DisjointSet)
+- [분할정복](https://github.com/sujin0529/BOJ/tree/master/DivideAndConquer)
+- [힙](https://github.com/sujin0529/BOJ/tree/master/Heap)
+- [트리](https://github.com/sujin0529/BOJ/tree/master/Tree)
+- [최단경로](https://github.com/sujin0529/BOJ/tree/master/ShortestPath)
+- [다익스트라 알고리즘](https://github.com/sujin0529/BOJ/tree/master/Dijkstra)
+- [플로이드-와샬 알고리즘](https://github.com/sujin0529/BOJ/tree/master/FloydWarshall)
+- [최소 스패닝 트리](https://github.com/sujin0529/BOJ/tree/master/MST)
+- [기하학](https://github.com/sujin0529/BOJ/tree/master/Geometry)
    
 ### we are studying algorithm (2020.03 ~ )
 - [👩🏻‍💻TOMATOMA](https://github.com/sujin0529/BOJ)
