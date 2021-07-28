@@ -42,11 +42,11 @@ public class Main {
 				int tmp = stalactite[i];
 				stalactite[i] = stalactite[i-1] + tmp;
 			}
-OAOAOA			
+			
 			int min = Integer.MAX_VALUE;
 			int count = 0;
 			for(int i=1; i<=height; i++) {
-OAOAOA				if(min > stalagmite[i]+stalactite[i]) {
+				if(min > stalagmite[i]+stalactite[i]) {
 					min = stalagmite[i]+stalactite[i];
 					count = 1;
 				}
